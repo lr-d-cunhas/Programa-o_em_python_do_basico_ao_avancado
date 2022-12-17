@@ -60,5 +60,14 @@ print(f'Set Comprehension: {set_comp} bythes')
 print(f'Dictionary Comprehension: {dic_comp} bythes')
 print(f'Generatoor Expression Comprehension: {gen} bythes')
 
+# Eu posso iterar no Generator Expression? Sim!
 
+gen = (x * 10 for x in range(1000))
+print(gen)
+print(type(gen))
+
+for num in gen:
+    print(num)
+
+    
 
