@@ -1,1 +1,3 @@
 # Programacao-em-Python-do-Basico-ao-Avancado
+
+Variáveis e Tipos de Dados, Estruturas Lógicas e Condicionais, Estruturas de Decisão e Repetição, Coleções (Listas, Tuplas, Sets, etc), Funções, Expressões Lambdas...
